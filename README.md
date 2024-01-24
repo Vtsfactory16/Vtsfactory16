@@ -13,7 +13,7 @@
 
 <br>
 
-Soy un apasionado desarrollador autodidacta de back-end, comprometido con la exploración y maestría de las tecnologías que impulsan el corazón de las aplicaciones. Mi enfoque se centra en el aprendizaje continuo y la resolución creativa de problemas, con el objetivo de construir soluciones robustas y eficientes. Estoy emocionado por enfrentar nuevos desafíos y contribuir al fascinante mundo del desarrollo de software. ¡Bienvenido a mi rincón digital! 🚀
+Soy un apasionado desarrollador autodidacta de back-end, comprometido con la exploración y maestría de las tecnologías que impulsan el corazón de las aplicaciones. Mi enfoque se centra en el aprendizaje continuo y la resolución creativa de problemas, con el objetivo de construir soluciones robustas y eficientes. Estoy emocionado por enfrentar nuevos desafíos y contribuir al fascinante mundo del desarrollo de software. ¡Bienvenido a mi rincón digital! 🚀<br>
 I am a passionate self-taught back-end developer, committed to exploring and mastering the technologies that drive the heart of applications. My focus is on continuous learning and creative problem-solving, with the aim of building robust and efficient solutions. I am excited to face new challenges and contribute to the fascinating world of software development. Welcome to my digital corner!
 
 
