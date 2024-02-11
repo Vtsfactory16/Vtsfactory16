@@ -78,14 +78,14 @@ I am a passionate self-taught back-end developer, committed to exploring and mas
 
 -----
 
-<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vtsfactory16&show_icons=true&theme=radical" alt="Stats" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vtsfactory16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <br><br>
+
+
 
 
 <br>
