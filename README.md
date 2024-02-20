@@ -83,6 +83,7 @@ I am a passionate self-taught back-end developer, committed to exploring and mas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vtsfactory16&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vtsfactory16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
   <br><br>
 
 
